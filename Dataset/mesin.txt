@@ -1,0 +1,15 @@
+Tenaga
+Power
+Torsi
+cc
+Akselerasi
+Fuel/BB
+Transmisi
+Akselerasi
+Mesin
+Safety
+Kenyamanan
+CVT
+AT
+Kecepatan
+Turbo
